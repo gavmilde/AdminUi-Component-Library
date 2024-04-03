@@ -60,7 +60,7 @@ Start the server
 
 ## Author
 
-Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
+Crafted with 🤍 by [@gavmilde](https://github.com/gavmilde)
 
 ## License
 
